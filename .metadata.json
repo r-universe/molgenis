@@ -1,0 +1,14 @@
+[
+  {
+    "package": "DSMolgenisArmadillo",
+    "oncran": true
+  },
+  {
+    "package": "MolgenisArmadillo",
+    "oncran": true
+  },
+  {
+    "package": "MolgenisAuth",
+    "oncran": true
+  }
+]
