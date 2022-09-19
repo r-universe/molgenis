@@ -1,5 +1,9 @@
 [
   {
+    "package": "DSMolgenisArmadillo",
+    "oncran": true
+  },
+  {
     "package": "MolgenisArmadillo",
     "oncran": true
   },
