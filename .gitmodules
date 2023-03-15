@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MolgenisArmadillo"]
-	path = MolgenisArmadillo
-	url = https://github.com/molgenis/molgenis-r-armadillo
-	shallow = true
-	registered = true
 [submodule "DSMolgenisArmadillo"]
 	path = DSMolgenisArmadillo
 	url = https://github.com/molgenis/molgenis-r-datashield
+	shallow = true
+	registered = true
+[submodule "MolgenisArmadillo"]
+	path = MolgenisArmadillo
+	url = https://github.com/molgenis/molgenis-r-armadillo
 	shallow = true
 	registered = true
 [submodule "MolgenisAuth"]
