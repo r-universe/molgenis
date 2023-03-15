@@ -1,10 +1,10 @@
 [
   {
-    "package": "DSMolgenisArmadillo",
+    "package": "MolgenisArmadillo",
     "oncran": true
   },
   {
-    "package": "MolgenisArmadillo",
+    "package": "DSMolgenisArmadillo",
     "oncran": true
   },
   {
