@@ -11,3 +11,6 @@
 [submodule "MolgenisAuth"]
 	path = MolgenisAuth
 	url = https://github.com/molgenis/molgenis-r-auth
+[submodule "dsTidyverse"]
+	path = dsTidyverse
+	url = https://github.com/molgenis/ds-tidyverse
