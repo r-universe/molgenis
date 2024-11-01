@@ -14,3 +14,6 @@
 [submodule "dsTidyverse"]
 	path = dsTidyverse
 	url = https://github.com/molgenis/ds-tidyverse
+[submodule "dsTidyverseClient"]
+	path = dsTidyverseClient
+	url = https://github.com/molgenis/ds-tidyverse-client
